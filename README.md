@@ -61,7 +61,7 @@ NMT is implemented using a Seq2Seq model consisting of Encoder and Decoder. The 
 
 ## Modeling with Bahdanua Attention 
 _Think for a minute -  what would you pay attention to more: a news article, or the notes for a test tomorrow?_
-_Of course, you would pay attention to the notes. The reason is because you learn with a greater focus on keywords to help you remember a simple or complex concept. The same applies to any deep learning task where we want to focus on a particual area of interest. This is how attention modeling works._
+_Of course, you would pay attention to the notes. The reason is because you learn with a greater focus on keywords to help you remember a simple or complex concept. The same applies to any deep learning task where we want to focus on a particular area of interest. This is how attention modeling works._
 
 The basic idea of Attention mechanism is to avoid attempting to learn a single vector representation for each sentence, instead, it pays attention to specific input vectors of the input sequence based on the attention weights. 
 
